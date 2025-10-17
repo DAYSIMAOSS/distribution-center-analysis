@@ -38,6 +38,15 @@ analise-centros-distribuicao/
 ├── data/                                   → (Opcional) Dados brutos ou tratados  
 └── README.md                               → Documentação do projeto  
 
+Conclusão
+
+Algoritmo utilizado: K-Means
+Número de centros sugerido: 4
+
+A análise mostrou clusters bem distribuídos geograficamente, 
+permitindo identificar os melhores locais para instalar centros de distribuição. 
+O valor total de entregas atendidas por cada centro foi calculado, auxiliando na tomada de decisão.
+
 Autora
 
 Dayanne Simão
